@@ -14,3 +14,5 @@ Route::get('/perkenalan', function () {
             <p>Saya siap belajar Laravel! 🚀</p>';
 
 });
+
+// Ini commitan baru
